@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-St#!/bin/bash
-=======
+ HEAD
 #!/bin/bash
->>>>>>> c32073769217836a57c5c81769e67311eda6d012
+#!/bin/bash update_script
+master
 The school is open!
